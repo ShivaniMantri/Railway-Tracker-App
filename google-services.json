@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14633244440",
+    "project_id": "railway-tracker-app",
+    "storage_bucket": "railway-tracker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14633244440:android:9c42bd2744d2f4987af06d",
+        "android_client_info": {
+          "package_name": "com.example.railway_trackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14633244440-nfnfu8idhskcrtbq0j3uo7qc10juc8au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-HSyEsKnUOrfBCF6xipvt3Mnbvf5-rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14633244440-nfnfu8idhskcrtbq0j3uo7qc10juc8au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
